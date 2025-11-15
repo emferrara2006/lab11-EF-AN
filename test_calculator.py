@@ -1,6 +1,6 @@
-https://github.com/emferrara2006/lab11-EF-AN.git
-# Partner 1: Ethan Ferrara
-# Partner 2: Andres Noguera (Didn't respond to me at all)
+#https://github.com/emferrara2006/lab11-EF-AN.git
+#Partner 1: Ethan Ferrara
+#Partner 2: Andres Noguera (Didn't respond to me at all)
 
 import unittest
 from calculator import *
